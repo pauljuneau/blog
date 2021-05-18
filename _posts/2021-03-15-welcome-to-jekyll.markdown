@@ -29,4 +29,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-![image-title-here](/assets/img/Untitled.png){:class="img-responsive"}
+![image-title-here](/blog/assets/img/Untitled.png){:class="img-responsive"}
