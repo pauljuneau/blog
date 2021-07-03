@@ -1,0 +1,11 @@
+---
+layout: post
+title: Webmidi-conductor blog home page
+slug: "home"
+date:   2021-06-21 06:40:00 -0700
+categories: webmidi-conductor
+permalink: /:categories/:slug:output_ext
+comments: false
+---
+{% include wmc-repo-link.html %}
+{% include wmc-blog-content.html %}

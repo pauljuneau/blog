@@ -34,6 +34,7 @@ linkedin_username: pauljuneau
 disqus:
   shortname: pauljuneauengineering
 
+excerpt_separator: <!--end_excerpt-->
 
 # Build settings
 theme: minima
