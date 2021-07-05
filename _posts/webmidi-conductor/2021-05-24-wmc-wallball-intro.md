@@ -13,7 +13,7 @@ Introduction to the [webmidi-conductor javascript opensource repo](https://githu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vwvn2FGb3Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Wall Ball Game Demo Overview
-
+[Click Here to Play!](https://www.pauljuneauengineer.com/webmidi-conductor/)
 #### Setup 
 
 * Plug in your midi instrument (e.g. piano) to your computer or smartphone prior to accessing the game demo site via link above.
