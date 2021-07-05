@@ -37,5 +37,5 @@ Introduction to the [webmidi-conductor javascript opensource repo](https://githu
 
 ----
 #### webmidi-conductor blog contents
-{% include wmc-repo-link.html %}
+{% include wmc-links.html %}
 {% include wmc-blog-content.html %}

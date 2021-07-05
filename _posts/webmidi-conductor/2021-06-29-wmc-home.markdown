@@ -7,5 +7,5 @@ categories: webmidi-conductor
 permalink: /:categories/:slug:output_ext
 comments: false
 ---
-{% include wmc-repo-link.html %}
+{% include wmc-links.html %}
 {% include wmc-blog-content.html %}
