@@ -3,7 +3,7 @@
       {% if tag[0] == "webmidi-conductor" %}
         <li>games
             <ul>
-                <li>wallball
+                <li><a href="{{ site.wmc.games.wallball }}">wallball</a><!--wallball-->
                 {% assign postsInTag = tag[1] | sort_natural: "date" %}
                 {% for post in postsInTag %}
                 {% for tag in post.tags %}

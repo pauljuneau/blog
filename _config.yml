@@ -33,6 +33,9 @@ linkedin_username: pauljuneau
 #youtube_username: channel/UC1oTSO76X_CJrWNXLmtS4AQ # '/' turns into %2F. Need to override _includes/social.html. https://github.com/jekyll/minima/issues/251
 disqus:
   shortname: pauljuneauengineering
+wmc:
+  games:
+    wallball: "https://www.pauljuneauengineer.com/webmidi-conductor/"
 
 excerpt_separator: <!--end_excerpt-->
 
