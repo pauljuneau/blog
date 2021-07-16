@@ -14,6 +14,11 @@ Introduction to the [webmidi-conductor javascript opensource repo](https://githu
 
 ### Wall Ball Game Demo Overview
 [Click Here to Play!](https://www.pauljuneauengineer.com/webmidi-conductor/)
+
+#### Introduction
+The video above is a demonstration of [my open source JavaScript library](https://github.com/pauljuneau/webmidi-conductor) I wrote that processes live midi input to determine if notes being played are within the designated scale along with identifying triad or 7th chords. I created a simple wall ball variation of the classic pong game to show how the player's paddle can react to midi input in real-time to move the paddle based on scale progression or change its color based on chord detection. The library can also use live audio input to detect changes in pitch which moves the paddle up/down in this game demo, or computer keyboard input can be used to simulate playing on a small piano. The computer keyboard to piano key mapping is defined in the ReadMe of the webmidi-conductor GitHub repo.
+
+Hope you enjoy! Thanks for checking this out! 
 #### Setup 
 
 * Plug in your midi instrument (e.g. piano) to your computer or smartphone prior to accessing the game demo site via link above.
