@@ -31,6 +31,7 @@ url: "https://pauljuneauengineer.com" # the base hostname & protocol for your si
 github_username:  pauljuneau
 linkedin_username: pauljuneau
 #youtube_username: channel/UC1oTSO76X_CJrWNXLmtS4AQ # '/' turns into %2F. Need to override _includes/social.html. https://github.com/jekyll/minima/issues/251
+google_analytics: G-S5HYBDQDF8
 disqus:
   shortname: pauljuneauengineering
 wmc:
