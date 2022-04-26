@@ -5,7 +5,7 @@ date:   2021-05-21 06:40:00 -0700
 categories: webmidi-conductor
 permalink: /:categories/:slug:output_ext
 tags: webmidi-conductor games wallball
-comments: false
+comments: true
 ---
 Introduction to the [webmidi-conductor javascript opensource repo](https://github.com/pauljuneau/webmidi-conductor) in action via a wallball pong game demo.
 <!--end_excerpt-->
