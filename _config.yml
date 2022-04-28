@@ -40,6 +40,9 @@ wmc:
 
 excerpt_separator: <!--end_excerpt-->
 
+header_pages:
+  - about.markdown
+
 # Build settings
 theme: minima
 plugins:
